@@ -20,7 +20,7 @@ const CONFIG = {
     // Memory descriptions
     memories: {
         lateNight: "Those endless conversations that made us forget about time",
-        firstMeeting: "I know the day we meet will be magical and unforgettable",
+        firstMeeting: "I remember the day we met was magical and unforgettable",
         care: "Your caring nature, sweet voice, and adorable cuteness"
     },
     
@@ -46,7 +46,7 @@ const CONFIG = {
     // Memory effect messages
     memoryMessages: {
         lateNight: "Those late nights talking with you are my favorite memories 🌙✨",
-        firstMeeting: "I know the day we meet will be magical and unforgettable 💫💕",
+        firstMeeting: "I remember the day we met was magical and unforgettable 💫💕",
         care: "Your caring nature, sweet voice, and adorable cuteness melt my heart 💕😍"
     }
 };
